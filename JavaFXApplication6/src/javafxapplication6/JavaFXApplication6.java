@@ -33,6 +33,7 @@ public class JavaFXApplication6 extends Application {
      */
     public static void main(String[] args) {
         System.out.println("Begin Game");
+        System.out.println("Starting Down");
         System.out.println("Doing something big");
         launch(args);
     }
