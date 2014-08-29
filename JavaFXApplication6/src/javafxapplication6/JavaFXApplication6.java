@@ -32,6 +32,7 @@ public class JavaFXApplication6 extends Application {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Starting Up");
         launch(args);
     }
     
