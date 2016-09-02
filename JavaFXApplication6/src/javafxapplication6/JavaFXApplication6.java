@@ -38,5 +38,9 @@ public class JavaFXApplication6 extends Application {
         System.out.println("Doing something big");
         launch(args);
     }
+
+    //Added some stuff from intelli-j
+    //This is also important stuff
+    //I just added more and more....
     
 }
