@@ -1,9 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Copyright gt productions 2016
  */
-
 package javafxapplication6;
 
 import javafx.application.Application;
@@ -38,5 +35,6 @@ public class JavaFXApplication6 extends Application {
         System.out.println("Doing something big");
         launch(args);
     }
-    
+    //ADDED THIS LINE FROM THE COMMAND LINE FIXING A BUG.
+   // THESE COMMAND LINE EDITS ARE IMPORTANT. YADA YADA YADA   
 }
