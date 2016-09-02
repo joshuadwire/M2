@@ -1,5 +1,7 @@
 /**
  * Copyright acme rocket  2016
+ * akasdjfbakjfbkdsbadkfbad
+aksdjfakdjfnakjdfa  from command line
  */
 
 package javafxapplication6;
@@ -38,5 +40,7 @@ public class JavaFXApplication6 extends Application {
     }
 
     public void doIt() { }
+    
 
+   public void doIt2() { }
 }
