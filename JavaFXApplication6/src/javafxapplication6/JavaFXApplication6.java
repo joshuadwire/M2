@@ -49,4 +49,6 @@ public class JavaFXApplication6 extends Application {
     public void doIt() { }
 
    public void doIt2() { }
+
+   public void doSomethingElse() { }
 }
