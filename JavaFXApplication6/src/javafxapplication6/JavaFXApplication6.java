@@ -1,5 +1,10 @@
 /**
  * Copyright acme rocket  2016
+ * skdjfbskdfbjs
+ * skdjfnsdlf
+ * sldjkfnsdf
+ * sduhgsd
+ *
  */
 
 package javafxapplication6;
@@ -27,6 +32,8 @@ public class JavaFXApplication6 extends Application {
         stage.show();
     }
 
+    public void doIt3() { }
+
     /**
      * @param args the command line arguments
      */
@@ -38,5 +45,7 @@ public class JavaFXApplication6 extends Application {
     }
 
     public void doIt() { }
+
+
 
 }
